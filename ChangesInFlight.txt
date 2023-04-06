@@ -1,0 +1,7 @@
+Mickey Mouse bought a Main Cabin ticket for flight ID 23
+Mickey Mouse bought a Main Cabin ticket for flight ID 1326
+Mickey Mouse cancelled ticket with confirmation number of mickeymouse-FID:1326-MainCabin1
+Mickey Mouse bought a Main Cabin ticket for flight ID 23
+Mickey Mouse bought a Main Cabin ticket for flight ID 23
+Mickey Mouse bought a Main Cabin ticket for flight ID 23
+Flight ID 23 updated Duration from 181 to 23
